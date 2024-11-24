@@ -1,7 +1,8 @@
 # PHP理解のために
 <br>
 
-<p align="center"><a href="https://www.php.net/" target="_blank"><img src="https://www.php.net/images/logos/php-logo-white.svg" width="300" alt="Laravel Logo"></a></p>
+<p align="center"><a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="300" alt="php Logo"></a></p>
+
 
 <h1 align="center">PHPのオブジェクト指向</h1>
 
